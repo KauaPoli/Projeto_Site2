@@ -1,0 +1,17 @@
+/* Todos os imports tem que se colocados no inicio do CSS */
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap');
+
+body{
+    background-color: forestgreen;
+}
+
+.BOLSONARO2026{
+    width: 100px;
+}
+
+ /* Classe para configuração de fonte */
+ .fonte{
+    color: yellow;
+    size: 16px;
+    font-family: "Oswald", sans-serif;
+}
